@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ballDropping", "ballDropping.vcxproj", "{AC858932-9CC9-414D-A0E5-C20255A97879}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC858932-9CC9-414D-A0E5-C20255A97879}.Debug|x64.ActiveCfg = Debug|x64
+		{AC858932-9CC9-414D-A0E5-C20255A97879}.Debug|x64.Build.0 = Debug|x64
+		{AC858932-9CC9-414D-A0E5-C20255A97879}.Debug|x86.ActiveCfg = Debug|Win32
+		{AC858932-9CC9-414D-A0E5-C20255A97879}.Debug|x86.Build.0 = Debug|Win32
+		{AC858932-9CC9-414D-A0E5-C20255A97879}.Release|x64.ActiveCfg = Release|x64
+		{AC858932-9CC9-414D-A0E5-C20255A97879}.Release|x64.Build.0 = Release|x64
+		{AC858932-9CC9-414D-A0E5-C20255A97879}.Release|x86.ActiveCfg = Release|Win32
+		{AC858932-9CC9-414D-A0E5-C20255A97879}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A92A4D7B-216B-4AF5-B510-DA5B6BCE15CF}
+	EndGlobalSection
+EndGlobal
